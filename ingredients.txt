@@ -1,6 +1,6 @@
 avocados
 salt
 lime
-jalepeno
+4 jalepeno
 onion
 cilantro
